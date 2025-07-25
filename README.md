@@ -47,4 +47,8 @@ L'objectif de ce projet est de transformer un CV traditionnel en une application
   
 ```
 Développé par Nathan.Z
+
+```
+![Aperçu de l'application Streamlit CV](assets/screenshot_streamlit_cv.png)
+
 ```
