@@ -104,9 +104,9 @@ st.markdown("---")
 # --- Projets ---
 st.markdown("### 📁 Projets")
 st.markdown("""
-- 🧮 [Analyse de données de livres](https://github.com/InsedayZ/dataviz-collection-livres.git)
-- 🌐 [Portfolio web Humanités Numériques](https://tonsite.github.io)
-- 🧠 [CV Streamlit](https://github.com/InsedayZ/cv_streamlit.git)
+- 🧮 [Analyse de données de livres](https://github.com/InsedayZ/dataviz-collection-livres)
+- 🌐 [Portfolio web Humanités Numériques](https://insedayz.github.io/Portfolio_responsive/)
+- 🧠 [CV Streamlit](https://github.com/InsedayZ/cv_streamlit)
 """)
 
 st.markdown("---")
