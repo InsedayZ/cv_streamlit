@@ -48,7 +48,6 @@ L'objectif de ce projet est de transformer un CV traditionnel en une application
   
 ```
 Développé par Nathan.Z
-
 ```
 ![Aperçu de l'application Streamlit CV](assets/screenshot_streamlit_cv.png)
 
@@ -56,4 +55,4 @@ Développé par Nathan.Z
 ##  Résultat en ligne
 
 Accédez à l’application interactivement ici :  
-[Ouvrir l’application Streamlit](https://dataviz-collection-livres.streamlit.app/)
+[https://cvinteractif.streamlit.app/](https://cvinteractif.streamlit.app/
